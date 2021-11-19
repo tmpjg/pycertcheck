@@ -1,0 +1,4 @@
+argparse
+pyOpenSSL
+Pyinstaller
+requests
